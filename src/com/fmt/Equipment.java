@@ -6,6 +6,8 @@ public class Equipment extends Item {
 	private String model;
 	private String type;
 
+	// TESTINGGGGGGGGGGGGGGGGGGGGGGGGG
+
 	public Equipment(String itemCode, String type, String itemName, String model) {
 		super(itemCode, itemName);
 		this.model = model;
