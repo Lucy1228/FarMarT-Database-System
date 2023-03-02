@@ -7,6 +7,8 @@ public class Equipment extends Item {
 	private String type;
 
 	// TESTINGGGGGGGGGGGGGGGGGGGGGGGGG
+	
+	//test2 20230301
 
 	public Equipment(String itemCode, String type, String itemName, String model) {
 		super(itemCode, itemName);
