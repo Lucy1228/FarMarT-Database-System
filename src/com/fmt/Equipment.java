@@ -9,6 +9,7 @@ public class Equipment extends Item {
 	// TESTINGGGGGGGGGGGGGGGGGGGGGGGGG
 	
 	//test2 20230301
+	//test30
 
 	public Equipment(String itemCode, String type, String itemName, String model) {
 		super(itemCode, itemName);
