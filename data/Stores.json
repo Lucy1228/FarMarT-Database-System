@@ -1,0 +1,250 @@
+{
+  "stores": [
+    {
+      "storeCode": "1p1q2r",
+      "manager": {
+        "personCode": "pqr678",
+        "lastName": "Watson",
+        "firstName": "David",
+        "address": {
+          "street": "400 Church St",
+          "city": "Columbia",
+          "state": "SC",
+          "country": "US",
+          "zip": "29201"
+        },
+        "email": [
+          "dwatson5@live.com",
+          "dwatson5@gmail.com"
+        ]
+      },
+      "storeAddress": {
+        "street": "100 Market Street",
+        "city": "Philadelphia",
+        "state": "PA",
+        "country": "US",
+        "zip": "19107"
+      },
+      "invoiceList": []
+    },
+    {
+      "storeCode": "7y7z8a",
+      "manager": {
+        "personCode": "stu901",
+        "lastName": "Kim",
+        "firstName": "Grace",
+        "address": {
+          "street": "7102 W. Mill Rd.",
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "US",
+          "zip": "53218"
+        },
+        "email": [
+          "gkim6@gmail.com",
+          "gkim6@yahoo.com"
+        ]
+      },
+      "storeAddress": {
+        "street": "1500 Market St",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US",
+        "zip": "94102"
+      },
+      "invoiceList": []
+    },
+    {
+      "storeCode": "2d2e3f",
+      "manager": {
+        "personCode": "def456",
+        "lastName": "Garcia",
+        "firstName": "Alex",
+        "address": {
+          "street": "2195 N. Comanche Drive",
+          "city": "Tucson",
+          "state": "AZ",
+          "country": "US",
+          "zip": "85705"
+        },
+        "email": [
+          "agarcia1@gmail.com",
+          "agarcia1@hotmail.com",
+          "agarcia1@yahoo.com"
+        ]
+      },
+      "storeAddress": {
+        "street": "123 Main Street",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US",
+        "zip": "94101"
+      },
+      "invoiceList": []
+    },
+    {
+      "storeCode": "3s3t4u",
+      "manager": {
+        "personCode": "stu901",
+        "lastName": "Kim",
+        "firstName": "Grace",
+        "address": {
+          "street": "7102 W. Mill Rd.",
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "US",
+          "zip": "53218"
+        },
+        "email": [
+          "gkim6@gmail.com",
+          "gkim6@yahoo.com"
+        ]
+      },
+      "storeAddress": {
+        "street": "200 Pine Street",
+        "city": "Seattle",
+        "state": "WA",
+        "country": "US",
+        "zip": "98101"
+      },
+      "invoiceList": []
+    },
+    {
+      "storeCode": "4g4h5i",
+      "manager": {
+        "personCode": "ghi789",
+        "lastName": "Park",
+        "firstName": "Emily",
+        "address": {
+          "street": "54 Cedar Avenue",
+          "city": "Portsmouth",
+          "state": "NH",
+          "country": "US",
+          "zip": "03801"
+        },
+        "email": [
+          "epark2@comcast.net",
+          "epark2@gmail.com"
+        ]
+      },
+      "storeAddress": {
+        "street": "888 Elm Street",
+        "city": "Portland",
+        "state": "OR",
+        "country": "US",
+        "zip": "97035"
+      },
+      "invoiceList": []
+    },
+    {
+      "storeCode": "6j6k7l",
+      "manager": {
+        "personCode": "jkl012",
+        "lastName": "Smith",
+        "firstName": "Robert",
+        "address": {
+          "street": "105 E. Elm St",
+          "city": "Burbank",
+          "state": "CA",
+          "country": "US",
+          "zip": "91502"
+        },
+        "email": [
+          "rsmith3@hotmail.com",
+          "rsmith3@yahoo.com",
+          "rsmith3@gmail.com",
+          "rsmith3@aol.com"
+        ]
+      },
+      "storeAddress": {
+        "street": "333 4th Ave",
+        "city": "Seattle",
+        "state": "WA",
+        "country": "US",
+        "zip": "98109"
+      },
+      "invoiceList": []
+    },
+    {
+      "storeCode": "8m8n9o",
+      "manager": {
+        "personCode": "mno345",
+        "lastName": "Martinez",
+        "firstName": "Carla",
+        "address": {
+          "street": "815 1st St",
+          "city": "Naperville",
+          "state": "IL",
+          "country": "US",
+          "zip": "60563"
+        },
+        "email": [
+          "cmartinez4@yahoo.com",
+          "cmartinez4@aol.com"
+        ]
+      },
+      "storeAddress": {
+        "street": "1000 Broadway Ave",
+        "city": "Denver",
+        "state": "CO",
+        "country": "US",
+        "zip": "80203"
+      },
+      "invoiceList": []
+    },
+    {
+      "storeCode": "5v5w6x",
+      "manager": {
+        "personCode": "stu901",
+        "lastName": "Kim",
+        "firstName": "Grace",
+        "address": {
+          "street": "7102 W. Mill Rd.",
+          "city": "Milwaukee",
+          "state": "WI",
+          "country": "US",
+          "zip": "53218"
+        },
+        "email": [
+          "gkim6@gmail.com",
+          "gkim6@yahoo.com"
+        ]
+      },
+      "storeAddress": {
+        "street": "500 N Michigan Ave",
+        "city": "Chicago",
+        "state": "IL",
+        "country": "US",
+        "zip": "60611"
+      },
+      "invoiceList": []
+    },
+    {
+      "storeCode": "1a1b2c",
+      "manager": {
+        "personCode": "abc123",
+        "lastName": "Johnson",
+        "firstName": "Marvin",
+        "address": {
+          "street": "425 Lincoln St",
+          "city": "Denver",
+          "state": "CO",
+          "country": "US",
+          "zip": "80203"
+        },
+        "email": [
+          "mjohnson0@yahoo.com",
+          "mjohnson0@hotmail.com"
+        ]
+      },
+      "storeAddress": {
+        "street": "555 Park Place",
+        "city": "Los Angeles",
+        "state": "CA",
+        "country": "US",
+        "zip": "90001"
+      },
+      "invoiceList": []
+    }
+  ]
+}

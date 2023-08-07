@@ -1,0 +1,212 @@
++--------------------------------------------------------------------------------------------------+
+| Summary Report - By Total                                                                        |
++--------------------------------------------------------------------------------------------------+
+| Invoice #  | Store                | Customer             |  Num Items |        Tax |      Total |
++--------------------------------------------------------------------------------------------------+
+| alphanum1  | 1a1b2c               | Emily, Park          |          2 | $  1394.77 | $ 23054.77 |
+| alphanum2  | 2d2e3f               | Emily, Park          |          3 | $  3613.64 | $454733.64 |
+| alphanum3  | 6j6k7l               | Robert, Smith        |          3 | $  2404.50 | $208404.50 |
+| alphanum4  | 7y7z8a               | Mike, Baker          |          2 | $    31.10 | $  1759.27 |
+| alphanum5  | 7y7z8a               | Mike, Baker          |          3 | $   426.50 | $157426.50 |
+| alphanum6  | 1a1b2c               | Robert, Smith        |          2 | $     0.00 | $550000.00 |
+| alphanum7  | 1a1b2c               | David, Watson        |          1 | $  1251.25 | $ 18751.25 |
++------------------------------------------------------------------------------------------------+
+|            |                      |                      |         16 | $  9121.76 | $1414129.93 |
+
++----------------------------------------------------------------------------------------+
+| Store Sales Summary Report                                                             |
++----------------------------------------------------------------------------------------+
+| Store #  | Manager              |    # Sales |     Grand Total |
++----------------------------------------------------------------------------------------+
+| 1a1b2c   | Marvin, Johnson      |          3 | $     591806.02 |
+| 2d2e3f   | Marvin, Johnson      |          1 | $     454733.64 |
+| 4g4h5i   | Alex, Garcia         |          0 | $          0.00 |
+| 6j6k7l   | Pedro, Rodriguez     |          1 | $     208404.50 |
+| 8m8n9o   | Pedro, Rodriguez     |          0 | $          0.00 |
+| 1p1q2r   | Pedro, Rodriguez     |          0 | $          0.00 |
+| 3s3t4u   | Grace, Kim           |          0 | $          0.00 |
+| 5v5w6x   | Grace, Kim           |          0 | $          0.00 |
+| 7y7z8a   | Grace, Kim           |          2 | $     159185.77 |
++----------------------------------------------------------------------------------------+
+|          |                      |          7 | $    1414129.93 |
+
+Invoice #alphanum1
+Store 1a1b2c
+Date 2022-03-08
+Customer:
+Emily,Park(ghi789 : [epark2@comcast.net, epark2@gmail.com]) 
+54 Cedar Avenue
+Portsmouth NH US 03801
+
+
+Sales Person:
+Themartian,Welp(ab4389 : [valorantismid@gmailcom]) 
+1589 S. waverlly
+Narnia NE US 87612
+
+Item                                                                Total
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+342foa3          (Product) Soybeans
+                     50 @ 350.0/bag         $17500.0
+23n4kl2          (Service) Plant Watching
+                 8.0 hours @ $520.0/hr         $4160.0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                                                        Subtotal $  21660.00
+                                                             Tax $   1394.77
+                                                     Grand Total $  23054.77
+
+
+Invoice #alphanum2
+Store 2d2e3f
+Date 2022-10-10
+Customer:
+Emily,Park(ghi789 : [epark2@comcast.net, epark2@gmail.com]) 
+54 Cedar Avenue
+Portsmouth NH US 03801
+
+
+Sales Person:
+Anna,Nguyen(9c3b21 : [anguyen8@yahoo.com, anguyen8@gmail.com]) 
+21 Maple St
+San Francisco CA US 94102
+
+Item                                                                Total
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+3n3k4l2          (Product) Corn Seed
+                     1000 @ 50.0/ton         $50000.0
+2334b23          (Service) Sheep Herding
+                 3.5 hours @ $320.0/hr         $1120.0
+0ec6e9          (Purchase) Harvester NH CR9         $400000.0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                                                        Subtotal $ 451120.00
+                                                             Tax $   3613.64
+                                                     Grand Total $ 454733.64
+
+
+Invoice #alphanum3
+Store 6j6k7l
+Date 2023-07-13
+Customer:
+Robert,Smith(jkl012 : [rsmith3@hotmail.com, rsmith3@yahoo.com, rsmith3@gmail.com, rsmith3@aol.com]) 
+105 E. Elm St
+Burbank CA US 91502
+
+
+Sales Person:
+Pedro,Rodriguez(f95b46 : [prodriguez9@hotmail.com, prodriguez9@yahoo.com]) 
+4500 S. 3rd St
+McAllen TX US 78503
+
+Item                                                                Total
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+l4k32j4          (Product) Cotton
+                     100 @ 30.0/ton         $3000.0
+n43k2l3          (Service) Mowing
+                 4.0 hours @ $5000.0/hr         $20000.0
+1d4d89          (Lease) Tractor-John Deere 9570RX
+                366 days (2023-01-01-> 2024-01-01) @ 15000.0/ 30 days         $183000.0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                                                        Subtotal $ 206000.00
+                                                             Tax $   2404.50
+                                                     Grand Total $ 208404.50
+
+
+Invoice #alphanum4
+Store 7y7z8a
+Date 2023-02-24
+Customer:
+Mike,Baker(dcd789 : [mbaker7@aol.com, mbaker7@yahoo.com, mbaker7@gmail.com, mbaker7@comcast.net]) 
+123 Oak St
+Baltimore MD US 21201
+
+
+Sales Person:
+Lord,Farquad(3brcn2 : [shreakteam@yahoo.com]) 
+1472 cookieman road
+LittleTown CA US 94202
+
+Item                                                                Total
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+740515          (Lease) Quadtrac Tractor-620 Quadtrac
+                31 days (2022-03-01-> 2022-03-31) @ 800.0/ 30 days         $826.67
+8432941          (Service) Cow Milker
+                 6.0 hours @ $150.25/hr         $901.5
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                                                        Subtotal $   1728.17
+                                                             Tax $     31.10
+                                                     Grand Total $   1759.27
+
+
+Invoice #alphanum5
+Store 7y7z8a
+Date 2022-11-11
+Customer:
+Mike,Baker(dcd789 : [mbaker7@aol.com, mbaker7@yahoo.com, mbaker7@gmail.com, mbaker7@comcast.net]) 
+123 Oak St
+Baltimore MD US 21201
+
+
+Sales Person:
+Lord,Farquad(3brcn2 : [shreakteam@yahoo.com]) 
+1472 cookieman road
+LittleTown CA US 94202
+
+Item                                                                Total
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+432kn2l          (Service) Goat Brusher
+                 8.0 hours @ $250.0/hr         $2000.0
+n3453js          (Product) Wheat
+                     50 @ 100.0/bag         $5000.0
+3506f6          (Purchase) Axial-Flow Combine Case IH 7250         $150000.0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                                                        Subtotal $ 157000.00
+                                                             Tax $    426.50
+                                                     Grand Total $ 157426.50
+
+
+Invoice #alphanum6
+Store 1a1b2c
+Date 2023-03-13
+Customer:
+Robert,Smith(jkl012 : [rsmith3@hotmail.com, rsmith3@yahoo.com, rsmith3@gmail.com, rsmith3@aol.com]) 
+105 E. Elm St
+Burbank CA US 91502
+
+
+Sales Person:
+Joey,Galapagos(8fbr21 : [joeytakesthebus@gmail.com]) 
+2900 E. St,Lincoln
+Lincoln NE US 68510
+
+Item                                                                Total
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+0ec6e9          (Purchase) Harvester NH CR9         $400000.0
+3506f6          (Purchase) Axial-Flow Combine Case IH 7250         $150000.0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                                                        Subtotal $ 550000.00
+                                                             Tax $      0.00
+                                                     Grand Total $ 550000.00
+
+
+Invoice #alphanum7
+Store 1a1b2c
+Date 2023-01-13
+Customer:
+David,Watson(pqr678 : [dwatson5@live.com, dwatson5@gmail.com]) 
+400 Church St
+Columbia SC US 29201
+
+
+Sales Person:
+Joey,Galapagos(8fbr21 : [joeytakesthebus@gmail.com]) 
+2900 E. St,Lincoln
+Lincoln NE US 68510
+
+Item                                                                Total
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+342foa3          (Product) Soybeans
+                     50 @ 350.0/bag         $17500.0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+                                                        Subtotal $  17500.00
+                                                             Tax $   1251.25
+                                                     Grand Total $  18751.25

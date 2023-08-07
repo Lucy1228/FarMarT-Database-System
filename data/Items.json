@@ -1,0 +1,87 @@
+{
+  "items": [
+    {
+      "hourlyRate": 150.25,
+      "hours": 0.0,
+      "itemCode": "8432941",
+      "itemName": "Cow Milker"
+    },
+    {
+      "unit": "bag",
+      "unitPrice": 350.0,
+      "quantity": 0,
+      "itemCode": "342foa3",
+      "itemName": "Soybeans"
+    },
+    {
+      "hourlyRate": 320.0,
+      "hours": 0.0,
+      "itemCode": "2334b23",
+      "itemName": "Sheep Herding"
+    },
+    {
+      "model": "620 Quadtrac",
+      "itemCode": "740515",
+      "itemName": "Quadtrac Tractor"
+    },
+    {
+      "hourlyRate": 520.0,
+      "hours": 0.0,
+      "itemCode": "23n4kl2",
+      "itemName": "Plant Watching"
+    },
+    {
+      "hourlyRate": 250.0,
+      "hours": 0.0,
+      "itemCode": "432kn2l",
+      "itemName": "Goat Brusher"
+    },
+    {
+      "model": "Case IH 7250",
+      "itemCode": "3506f6",
+      "itemName": "Axial-Flow Combine"
+    },
+    {
+      "hourlyRate": 5000.0,
+      "hours": 0.0,
+      "itemCode": "n43k2l3",
+      "itemName": "Mowing"
+    },
+    {
+      "model": "John Deere 9570RX",
+      "itemCode": "1d4d89",
+      "itemName": "Tractor"
+    },
+    {
+      "unit": "ton",
+      "unitPrice": 50.0,
+      "quantity": 0,
+      "itemCode": "3n3k4l2",
+      "itemName": "Corn Seed"
+    },
+    {
+      "unit": "ton",
+      "unitPrice": 30.0,
+      "quantity": 0,
+      "itemCode": "l4k32j4",
+      "itemName": "Cotton"
+    },
+    {
+      "model": "PSS2260BS",
+      "itemCode": "649f88",
+      "itemName": "Snow Blower"
+    },
+    {
+      "model": "NH CR9",
+      "itemCode": "0ec6e9",
+      "itemName": "Harvester"
+    },
+    {
+      "unit": "bag",
+      "unitPrice": 100.0,
+      "quantity": 0,
+      "itemCode": "n3453js",
+      "itemName": "Wheat"
+    }
+  ]
+}

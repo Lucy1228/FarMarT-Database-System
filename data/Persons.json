@@ -1,0 +1,240 @@
+{
+  "persons": [
+    {
+      "personId": 0,
+      "personCode": "ab4389",
+      "lastName": "Welp",
+      "firstName": "Themartian",
+      "address": {
+        "street": "1589 S. waverlly",
+        "city": "Narnia",
+        "state": "NE",
+        "country": "US",
+        "zip": "87612",
+        "addressId": 0
+      },
+      "email": [
+        "valorantismid@gmailcom"
+      ]
+    },
+    {
+      "personId": 0,
+      "personCode": "3brcn2",
+      "lastName": "Farquad",
+      "firstName": "Lord",
+      "address": {
+        "street": "1472 cookieman road",
+        "city": "LittleTown",
+        "state": "CA",
+        "country": "US",
+        "zip": "94202",
+        "addressId": 0
+      },
+      "email": [
+        "shreakteam@yahoo.com"
+      ]
+    },
+    {
+      "personId": 0,
+      "personCode": "mno345",
+      "lastName": "Martinez",
+      "firstName": "Carla",
+      "address": {
+        "street": "815 1st St",
+        "city": "Naperville",
+        "state": "IL",
+        "country": "US",
+        "zip": "60563",
+        "addressId": 0
+      },
+      "email": [
+        "cmartinez4@yahoo.com",
+        "cmartinez4@aol.com"
+      ]
+    },
+    {
+      "personId": 0,
+      "personCode": "8fbr21",
+      "lastName": "Galapagos",
+      "firstName": "Joey",
+      "address": {
+        "street": "2900 E. St",
+        "city": "Lincoln",
+        "state": "NE",
+        "country": "US",
+        "zip": "68510",
+        "addressId": 0
+      },
+      "email": [
+        "joeytakesthebus@gmail.com"
+      ]
+    },
+    {
+      "personId": 0,
+      "personCode": "abc123",
+      "lastName": "Johnson",
+      "firstName": "Marvin",
+      "address": {
+        "street": "425 Lincoln St",
+        "city": "Denver",
+        "state": "CO",
+        "country": "US",
+        "zip": "80203",
+        "addressId": 0
+      },
+      "email": [
+        "mjohnson0@yahoo.com",
+        "mjohnson0@hotmail.com"
+      ]
+    },
+    {
+      "personId": 0,
+      "personCode": "f95b46",
+      "lastName": "Rodriguez",
+      "firstName": "Pedro",
+      "address": {
+        "street": "4500 S. 3rd St",
+        "city": "McAllen",
+        "state": "TX",
+        "country": "US",
+        "zip": "78503",
+        "addressId": 0
+      },
+      "email": [
+        "prodriguez9@hotmail.com",
+        "prodriguez9@yahoo.com"
+      ]
+    },
+    {
+      "personId": 0,
+      "personCode": "pqr678",
+      "lastName": "Watson",
+      "firstName": "David",
+      "address": {
+        "street": "400 Church St",
+        "city": "Columbia",
+        "state": "SC",
+        "country": "US",
+        "zip": "29201",
+        "addressId": 0
+      },
+      "email": [
+        "dwatson5@live.com",
+        "dwatson5@gmail.com"
+      ]
+    },
+    {
+      "personId": 0,
+      "personCode": "stu901",
+      "lastName": "Kim",
+      "firstName": "Grace",
+      "address": {
+        "street": "7102 W. Mill Rd.",
+        "city": "Milwaukee",
+        "state": "WI",
+        "country": "US",
+        "zip": "53218",
+        "addressId": 0
+      },
+      "email": [
+        "gkim6@gmail.com",
+        "gkim6@yahoo.com"
+      ]
+    },
+    {
+      "personId": 0,
+      "personCode": "jkl012",
+      "lastName": "Smith",
+      "firstName": "Robert",
+      "address": {
+        "street": "105 E. Elm St",
+        "city": "Burbank",
+        "state": "CA",
+        "country": "US",
+        "zip": "91502",
+        "addressId": 0
+      },
+      "email": [
+        "rsmith3@hotmail.com",
+        "rsmith3@yahoo.com",
+        "rsmith3@gmail.com",
+        "rsmith3@aol.com"
+      ]
+    },
+    {
+      "personId": 0,
+      "personCode": "def456",
+      "lastName": "Garcia",
+      "firstName": "Alex",
+      "address": {
+        "street": "2195 N. Comanche Drive",
+        "city": "Tucson",
+        "state": "AZ",
+        "country": "US",
+        "zip": "85705",
+        "addressId": 0
+      },
+      "email": [
+        "agarcia1@gmail.com",
+        "agarcia1@hotmail.com",
+        "agarcia1@yahoo.com"
+      ]
+    },
+    {
+      "personId": 0,
+      "personCode": "dcd789",
+      "lastName": "Valentin",
+      "firstName": "Migdalia",
+      "address": {
+        "street": "123 Oak St",
+        "city": "Baltimore",
+        "state": "MD",
+        "country": "US",
+        "zip": "21201",
+        "addressId": 0
+      },
+      "email": [
+        "mbaker7@aol.com",
+        "mbaker7@yahoo.com",
+        "mbaker7@gmail.com",
+        "mbaker7@comcast.net"
+      ]
+    },
+    {
+      "personId": 0,
+      "personCode": "9c3b21",
+      "lastName": "Nguyen",
+      "firstName": "Anna",
+      "address": {
+        "street": "21 Maple St",
+        "city": "San Francisco",
+        "state": "CA",
+        "country": "US",
+        "zip": "94102",
+        "addressId": 0
+      },
+      "email": [
+        "anguyen8@yahoo.com",
+        "anguyen8@gmail.com"
+      ]
+    },
+    {
+      "personId": 0,
+      "personCode": "ghi789",
+      "lastName": "Park",
+      "firstName": "Emily",
+      "address": {
+        "street": "54 Cedar Avenue",
+        "city": "Portsmouth",
+        "state": "NH",
+        "country": "US",
+        "zip": "03801",
+        "addressId": 0
+      },
+      "email": [
+        "epark2@comcast.net",
+        "epark2@gmail.com"
+      ]
+    }
+  ]
+}
